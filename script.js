@@ -1,1 +1,1 @@
-console.log("this should create a conflict")
+console.log("this is to test the conflict")
